@@ -36,7 +36,7 @@ abstract class bs_BALocalise
 		}
 		else
 		{
-			return array('VIÅ E');
+			return array('VIŠE');
 		}
 	}
 

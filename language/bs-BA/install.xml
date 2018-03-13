@@ -2,12 +2,12 @@
 <extension version="3.8" client="site" type="language" method="upgrade">
 	<name>Bosnian (bs-BA)</name>
 	<tag>bs-BA</tag>
-	<version>3.8.2</version>
-	<creationDate>Dec 2017</creationDate>
+	<version>3.8.6</version>
+	<creationDate>Mar 2018</creationDate>
 	<author>Joomla! BA Translation Team</author>
 	<authorEmail>dantes.delic@joomla.ba</authorEmail>
 	<authorUrl>www.joomla.ba</authorUrl>
-	<copyright>Copyright (C) 2005 - 2017 Open Source Matters and joomla.ba. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2018 Open Source Matters and joomla.ba. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Bosnian Joomla! language pack for site (frontend)</description>
 	<files>

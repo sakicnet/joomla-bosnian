@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.8" client="site">
+<metafile version="3.9" client="site">
 	<tag>bs-BA</tag>
 	<name>Bosnian (bs-BA)</name>
-	<version>3.8.12</version>
-	<creationDate>Sep 2018</creationDate>
+	<version>3.9.0</version>
+	<creationDate>Nov 2018</creationDate>
 	<author>Joomla! BA Translation Team</author>
 	<authorEmail>dantes.delic@joomla.ba</authorEmail>
 	<authorUrl>www.joomla.ba</authorUrl>

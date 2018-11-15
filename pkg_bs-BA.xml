@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="3.7" method="upgrade">
+<extension type="package" version="3.9" method="upgrade">
 	<name>Bosnian (bs-BA) Language Pack</name>
 	<packagename>bs-BA</packagename>
-	<version>3.7.0.1</version>
-	<creationDate>Nov 2017</creationDate> 
+	<version>3.9.0.1</version>
+	<creationDate>Nov 2018</creationDate> 
 	<author>Joomla! BA Translation Team</author> 
 	<authorEmail>dantes.delic@joomla.ba</authorEmail> 
 	<authorUrl>www.joomla.ba</authorUrl>
+	<copyright>Copyright (C) 2005 - 2018 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url>www.joomla.ba</url>
 	<packager>Joomla! BA Translation Team</packager>
 	<packagerurl>www.joomla.ba</packagerurl>
 	<description>
-		<![CDATA[<a target="_blank" href="http://www.joomla.ba"><img src="../administrator/language/bs-BA/package370.png" /></a>]]>
+		<![CDATA[<a target="_blank" href="http://www.joomla.ba"><img src="../administrator/language/bs-BA/package390.png" /></a>]]>
 	</description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
-		<file type="language" client="administrator" id="bs-BA">admin_bs-BA.zip</file>
-		<file type="language" client="site" id="bs-BA">site_bs-BA.zip</file>
+		<folder type="language" client="administrator" id="bs-BA">admin_bs-BA</folder>
+		<folder type="language" client="site" id="bs-BA">site_bs-BA</folder>
 	</files>
 	<updateservers>
 		<server type="collection" priority="1" name="Accredited Joomla! Translations">

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<extension version="3.8" client="site" type="language" method="upgrade">
+<extension version="3.9" client="site" type="language" method="upgrade">
 	<name>Bosnian (bs-BA)</name>
 	<tag>bs-BA</tag>
-	<version>3.8.12</version>
-	<creationDate>Sep 2018</creationDate>
+	<version>3.9.0</version>
+	<creationDate>Nov 2018</creationDate>
 	<author>Joomla! BA Translation Team</author>
 	<authorEmail>dantes.delic@joomla.ba</authorEmail>
 	<authorUrl>www.joomla.ba</authorUrl>

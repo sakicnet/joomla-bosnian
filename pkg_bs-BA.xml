@@ -2,18 +2,18 @@
 <extension type="package" version="3.9" method="upgrade">
 	<name>Bosnian (bs-BA) Language Pack</name>
 	<packagename>bs-BA</packagename>
-	<version>3.9.1.1</version>
-	<creationDate>Nov 2018</creationDate> 
+	<version>3.9.4.1</version>
+	<creationDate>Mar 2019</creationDate> 
 	<author>Joomla! BA Translation Team</author> 
 	<authorEmail>dantes.delic@joomla.ba</authorEmail> 
 	<authorUrl>www.joomla.ba</authorUrl>
-	<copyright>Copyright (C) 2005 - 2018 Open Source Matters, Inc. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2019 Open Source Matters, Inc. All rights reserved.</copyright>
 	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url>www.joomla.ba</url>
 	<packager>Joomla! BA Translation Team</packager>
 	<packagerurl>www.joomla.ba</packagerurl>
 	<description>
-		<![CDATA[<a target="_blank" href="http://www.joomla.ba"><img src="../administrator/language/bs-BA/package391.png" /></a>]]>
+		<![CDATA[<a target="_blank" href="http://www.joomla.ba"><img src="../administrator/language/bs-BA/package394.png" /></a>]]>
 	</description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>

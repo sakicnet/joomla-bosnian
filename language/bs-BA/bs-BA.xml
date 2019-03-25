@@ -2,12 +2,12 @@
 <metafile version="3.9" client="site">
 	<tag>bs-BA</tag>
 	<name>Bosnian (bs-BA)</name>
-	<version>3.9.1</version>
-	<creationDate>Nov 2018</creationDate>
+	<version>3.9.4</version>
+	<creationDate>Mar 2019</creationDate>
 	<author>Joomla! BA Translation Team</author>
 	<authorEmail>dantes.delic@joomla.ba</authorEmail>
 	<authorUrl>www.joomla.ba</authorUrl>
-	<copyright>Copyright (C) 2005 - 2018 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2019 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Bosnian Joomla! language pack for site (frontend)</description>
 	<metadata>

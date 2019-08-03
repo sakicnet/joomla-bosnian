@@ -2,7 +2,7 @@
 <extension version="3.9" client="site" type="language" method="upgrade">
 	<name>Bosnian (bs-BA)</name>
 	<tag>bs-BA</tag>
-	<version>3.9.9</version>
+	<version>3.9.10</version>
 	<creationDate>Jul 2019</creationDate>
 	<author>Joomla! BA Translation Team</author>
 	<authorEmail>dantes.delic@joomla.ba</authorEmail>

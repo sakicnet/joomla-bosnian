@@ -2,8 +2,8 @@
 <extension type="package" version="3.9" method="upgrade">
 	<name>Bosnian (bs-BA) Language Pack</name>
 	<packagename>bs-BA</packagename>
-	<version>3.9.12.1</version>
-	<creationDate>Sep 2019</creationDate> 
+	<version>3.9.13.1</version>
+	<creationDate>Nov 2019</creationDate> 
 	<author>Joomla! BA Translation Team</author> 
 	<authorEmail>dantes.delic@joomla.ba</authorEmail> 
 	<authorUrl>www.joomla.ba</authorUrl>
@@ -13,7 +13,7 @@
 	<packager>Joomla! BA Translation Team</packager>
 	<packagerurl>www.joomla.ba</packagerurl>
 	<description>
-		<![CDATA[<a target="_blank" href="http://www.joomla.ba/novosti/jezik/"><img src="../administrator/language/bs-BA/package3912.png" /></a>]]>
+		<![CDATA[<a target="_blank" href="http://www.joomla.ba/novosti/jezik/"><img src="../administrator/language/bs-BA/package3913.png" /></a>]]>
 	</description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>

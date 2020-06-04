@@ -32,11 +32,11 @@ abstract class bs_BALocalise
 		}
 		elseif ($count == 1)
 		{
-			return array('1');
+			return array('JEDAN', '1');
 		}
 		else
 		{
-			return array('VIŠE');
+			return array('DRUGI', 'VIŠE');
 		}
 	}
 

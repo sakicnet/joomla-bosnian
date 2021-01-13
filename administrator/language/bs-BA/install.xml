@@ -2,12 +2,12 @@
 <extension version="3.9" client="administrator" type="language" method="upgrade">
 	<name>Bosnian (bs-BA)</name>
 	<tag>bs-BA</tag>
-	<version>3.9.22</version>
-	<creationDate>Okt 2020</creationDate>
+	<version>3.9.24</version>
+	<creationDate>Jan 2021</creationDate>
 	<author>Joomla! BA Translation Team</author>
 	<authorEmail>dantes.delic@joomla.ba</authorEmail>
 	<authorUrl>www.joomla.ba</authorUrl>
-	<copyright>Copyright (C) 2005 - 2020 Open Source Matters and joomla.ba. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2021 Open Source Matters and joomla.ba. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Bosnian Joomla! language pack for administrator (backend)</description>
 	<files>
